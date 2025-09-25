@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Riddhi Raman!
+[![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)](https://github.com/<username>)
 
-<!--
-**dev-riddhi/dev-riddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I’m a passionate developer
+- 🌱 Currently learning AI & Backend Development 
+- 🎨 Love creating creative UIs and Open Source Projects
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Status
+
+## 🌐 Connect With Me
