@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riddhi Raman Sarkar
 
-🎓 **B.Tech (AIML) Student | CSE Background**  
+🎓 **Diploma Graduate (CSE) | Currently Pursuing B.Tech (AIML)**  
 💻 **Flutter & Laravel Developer**  
 📍 **North 24 Parganas, West Bengal, India**
 
@@ -13,7 +13,7 @@
 
 - 🎓 **Brainware University**  
   - 🎓 Diploma in Computer Science & Engineering (CSE)  
-  - 🎓 B.Tech in Computer Science & Engineering (AIML)
+  - 🎓 **B.Tech in Computer Science & Engineering (AIML)** *(Pursuing)*
 
 ---
 
@@ -28,7 +28,7 @@
 - **Dart**
 
 ### 🧩 Frameworks & Technologies
-- **Flutter** (Cross-platform Mobile & Desktop Apps)
+- **Flutter** (Cross-platform Mobile & Desktop Development)
 - **Laravel** (Backend & Full-Stack Web Development)
 - **React.js** (Basic)
 
@@ -45,15 +45,15 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced Flutter (Windows & Desktop apps)  
+- Advanced Flutter (Windows & Desktop Apps)  
 - Backend Architecture & API Optimization  
-- AI / Machine Learning Fundamentals  
+- AI & Machine Learning Fundamentals  
 - Database Design & Performance  
 
 ---
 
 ## 📌 Interests
-- App Development (Mobile & Desktop)  
+- Mobile & Desktop App Development  
 - Backend Engineering  
 - AI & Machine Learning  
 - Building Real-World Projects  
