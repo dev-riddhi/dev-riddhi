@@ -1,16 +1,69 @@
-# 👋 Hi, I'm Riddhi Raman!
-[![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)](https://github.com/<username>)
+# 👋 Hi, I'm Riddhi Raman Sarkar
 
-## 🚀 About Me
-- 💻 I’m a passionate developer
-- 🌱 Currently learning AI & Backend Development 
-- 🎨 Love creating creative UIs and Open Source Projects
+🎓 **B.Tech (AIML) Student | CSE Background**  
+💻 **Flutter & Laravel Developer**  
+📍 **North 24 Parganas, West Bengal, India**
 
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+---
 
-## 📊 GitHub Status
+## 🧑‍🎓 Education
 
-## 🌐 Connect With Me
+- 🏫 **Basirhat High School**  
+  ✅ Class 10 Passed
+
+- 🎓 **Brainware University**  
+  - 🎓 Diploma in Computer Science & Engineering (CSE)  
+  - 🎓 B.Tech in Computer Science & Engineering (AIML)
+
+---
+
+## 💻 Technical Skills
+
+### 🚀 Programming Languages
+- **PHP**
+- **JavaScript**
+- **TypeScript**
+- **Python**
+- **Java**
+- **Dart**
+
+### 🧩 Frameworks & Technologies
+- **Flutter** (Cross-platform Mobile & Desktop Apps)
+- **Laravel** (Backend & Full-Stack Web Development)
+- **React.js** (Basic)
+
+### 🗄️ Databases
+- **SQL** (Basic)
+- **MongoDB (NoSQL)** (Basic)
+
+### 🛠️ Tools & Concepts
+- Git & GitHub  
+- REST APIs  
+- Cross-platform Development  
+- Basic UI/UX Principles  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter (Windows & Desktop apps)  
+- Backend Architecture & API Optimization  
+- AI / Machine Learning Fundamentals  
+- Database Design & Performance  
+
+---
+
+## 📌 Interests
+- App Development (Mobile & Desktop)  
+- Backend Engineering  
+- AI & Machine Learning  
+- Building Real-World Projects  
+
+---
+
+## 📫 Connect With Me
+- GitHub: **@RiddhiRamanSarkar**
+- Location: **North 24 Parganas, West Bengal**
+
+---
+
+⭐ *Always learning. Always building.*
