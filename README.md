@@ -60,9 +60,10 @@
 
 ---
 
-## 📫 Connect With Me
-- GitHub: **@RiddhiRamanSarkar**
-- Location: **North 24 Parganas, West Bengal**
+## 📫 Contact Me
+- 📧 **Email:** riddhiramansarkar@gmail.com  
+- 💻 **GitHub:** @RiddhiRamanSarkar  
+- 📍 **Location:** North 24 Parganas, West Bengal, India  
 
 ---
 
